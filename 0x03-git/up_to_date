@@ -1,3 +1,2 @@
-cat up_to_date
- git add up_to_date
- git push main
+$git add up_to_date
+$git pull
