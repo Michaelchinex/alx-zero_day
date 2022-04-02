@@ -1,4 +1,3 @@
 cat up_to_date
-$ git add up_to_date
-$ git commit -m "Initial commit"
-$ git push origin main
+ git add up_to_date
+ git push main
